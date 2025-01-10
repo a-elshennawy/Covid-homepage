@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Gelion;
+    src: url(fonts/Gelion/Gelion\ Regular.ttf);
+}
+
+@font-face {
+    font-family: Gelionmedium;
+    src: url(fonts/Gelion/Gelion\ Medium.ttf);
+}
+
+@font-face {
+    font-family: RedHatDisplay;
+    src: url(fonts/RedHatDisplay/RedHatDisplay-Regular.ttf);
+}
